@@ -1,5 +1,7 @@
 # 医疗器械产品法规标准清单生成器
 
+*Medical device regulatory and standards checklist generator (AI agent skill)*
+
 这是给 AI 助手用的**技能**（Skill），不是软件 —— 没有安装包、没有界面、不用敲命令。
 
 装好之后，在对话框里说一句：
