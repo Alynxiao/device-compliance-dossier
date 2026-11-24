@@ -1,6 +1,6 @@
 # 医疗器械产品法规标准清单生成器
 
-*Medical device regulatory and standards checklist generator (AI agent skill)*
+*Medical device regulatory and standards checklist generator (AI agent skill). Input a device name, get the China NMPA registration input list — classification code, applicable regulations, GB/YY standards — as markdown and a printable HTML page.*
 
 这是给 AI 助手用的**技能**（Skill），不是软件 —— 没有安装包、没有界面、不用敲命令。
 
