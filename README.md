@@ -1,4 +1,4 @@
-# 医疗器械产品法规标准清单生成器
+# 医疗器械产品法规标准清单
 
 *Medical device regulatory and standards checklist generator (AI agent skill). Input a device name, get the China NMPA registration input list — classification code, applicable regulations, GB/YY standards — as markdown and a printable HTML page.*
 
@@ -112,9 +112,9 @@ AI 就会按这套规则干活，产出**医疗器械注册申报**要用的两�
 |---|---|
 | [医疗器械法规库](https://github.com/Alynxiao/china-medical-device-regs) | 汇总有哪些**法规** —— 条例、规章、指导原则 |
 | [医疗器械标准库](https://github.com/Alynxiao/medical-device-standards) | 汇总有哪些**标准** —— 国标 GB、行标 YY 的目录和征求意见稿 |
-| **医疗器械产品法规标准清单生成器（本仓库）** | **按具体产品判定适用** —— 定分类编码，筛出这个产品该用的法规和标准，出清单进 DHF |
+| **医疗器械产品法规标准清单（本仓库）** | **按具体产品判定适用** —— 定分类编码，筛出这个产品该用的法规和标准，出清单进 DHF |
 
-前两个给的是全量目录，清单生成器负责从里面挑出这个产品真正适用的。
+前两个给的是全量目录，清单负责从里面挑出这个产品真正适用的。
 
 ## 说明
 
